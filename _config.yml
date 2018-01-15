@@ -1,2 +1,11 @@
 theme: jekyll-theme-cayman
 google_analytics: UA-107493720-3
+plugins:
+ - jekyll-feed
+ - jekyll-redirect-from
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-avatar
+ - jemoji
+ - jekyll-mentions
+ - jekyll-include-cache
